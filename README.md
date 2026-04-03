@@ -8,7 +8,7 @@ managing real money for 50+ days without human intervention.
 Not theory. Not a tutorial. Production-tested.
 
 ```bash
-pip install agentkit
+pip install bitbot-primitives
 ```
 
 ## Why agentkit?
@@ -255,7 +255,7 @@ your agent's learning at any time.
 ## Installation
 
 ```bash
-pip install agentkit
+pip install bitbot-primitives
 ```
 
 Or from source:

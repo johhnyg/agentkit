@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="agentkit",
+    name="bitbot-primitives",
     version="0.1.0",
     author="johhnyg",
     description="Production primitives for autonomous AI agents",
